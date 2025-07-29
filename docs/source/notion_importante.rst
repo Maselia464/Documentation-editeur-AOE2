@@ -1,5 +1,11 @@
-.. toctree::
-   :maxdepth: 2
-   :caption: Notion importante de l'éditeur
+La notion des ID
+================
 
-   Notion-des-ID
+.. toctree::
+   :maxdepth: 1
+
+   definition
+   groupes_unites
+   id_apparence
+   reference_id
+   xs_scripts
