@@ -27,6 +27,7 @@ Vous accompagner de vos premières manipulations jusqu’aux systèmes les plus 
 N’hésitez pas à contribuer ou à remonter les coquilles et améliorations possibles.
 
 ---
+
 .. toctree::
    :maxdepth: 1
    :caption: 🏠 ACCUEIL
