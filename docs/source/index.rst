@@ -33,7 +33,7 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
    :caption: Sommaire
    :titlesonly:
 
-   notions/index
+   notion/index
    les_declencheurs
    xs_intro
    scripts_python
