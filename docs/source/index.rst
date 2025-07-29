@@ -32,8 +32,9 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
    :maxdepth: 2
    :caption: Sommaire
    :titlesonly:
-   Notions-importantes
-   les_declencheur
+
+   notions/index
+   les_declencheurs
    xs_intro
    scripts_python
    astuces
