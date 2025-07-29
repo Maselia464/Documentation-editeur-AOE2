@@ -32,7 +32,7 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
    :maxdepth: 2
    :caption: Sommaire
    :titlesonly:
-
+   :caption: Notion de l'éditeur
    Notion-des-ID
    declencheurs
    xs_intro
