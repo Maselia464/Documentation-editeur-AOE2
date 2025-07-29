@@ -36,7 +36,7 @@ Vous pouvez voir certains ID directement dans l’éditeur, notamment dans les e
 - **Modifier un attribut**
 - **Définir une unité ou un bâtiment précis**
 
-.. image:: image/visualiser_id_effet.png
+.. image:: image/visualiser_id_effet
    :alt: Visualisation des ID dans l'effet "Créer l'objet"
    :align: center
    :scale: 80%
