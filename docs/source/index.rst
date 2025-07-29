@@ -31,7 +31,6 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
 .. toctree::
    :maxdepth: 2
    :caption: Sommaire
-   :titlesonly:
 
    notion/index
    les_declencheurs
