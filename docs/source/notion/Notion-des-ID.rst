@@ -36,9 +36,9 @@ Vous pouvez voir certains ID directement dans l’éditeur, notamment dans les e
 - **Modifier un attribut**
 - **Définir une unité ou un bâtiment précis**
 
-.. image:: image/Screenshot_6.png
+.. image:: image/id_visuel.png
    :alt: Visualisation des ID via un effet
-   :width: 1900px
+   :width: 891px
    :align: center
 ---
 
