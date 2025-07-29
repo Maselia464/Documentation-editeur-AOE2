@@ -34,7 +34,7 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
    :titlesonly:
    :caption: Notion de l'éditeur
    Notion-des-ID
-   declencheurs
+   les_declencheur
    xs_intro
    scripts_python
    astuces
