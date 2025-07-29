@@ -37,10 +37,9 @@ Vous pouvez voir certains ID directement dans l’éditeur, notamment dans les e
 - **Définir une unité ou un bâtiment précis**
 
 .. image:: image/Screenshot_6.png
-   :alt: Visualisation des ID dans l'effet "Créer l'objet"
+   :alt: Visualisation des ID via un effet
+   :width: 600px
    :align: center
-   :scale: 80%
-
 ---
 
 Groupes d’unités
