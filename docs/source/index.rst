@@ -27,3 +27,14 @@ Vous accompagner de vos premières manipulations jusqu’aux systèmes les plus 
 N’hésitez pas à contribuer ou à remonter les coquilles et améliorations possibles.
 
 ---
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Sommaire
+   :titlesonly:
+
+   id_et_objets
+   declencheurs
+   xs_intro
+   scripts_python
+   astuces
