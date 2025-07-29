@@ -44,7 +44,7 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
    :maxdepth: 1
    :caption: ⚙️ LES DÉCLENCHEURS
 
-   les_declencheurs
+   declancheur/les_declencheurs
 
 .. toctree::
    :maxdepth: 1
