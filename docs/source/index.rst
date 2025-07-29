@@ -32,7 +32,13 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
    :maxdepth: 2
    :caption: Sommaire
 
+.. toctree::
+   :maxdepth: 1
+   :caption: 🧠 Les notions importantes
    notion/index
+.. toctree::
+   :maxdepth: 1
+   :caption: 🧠 Fonctionnement des déclencheurs et cas d'usage
    les_declencheurs
    xs_intro
    scripts_python
