@@ -32,8 +32,8 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
    :maxdepth: 1
    :caption: 📘 LES NOTIONS IMPORTANTES
 
-   notions/Notion-des-ID
-   notions/Notion-autre
+   notion/Notion-des-ID
+   notion/Notion-autre
 
 .. toctree::
    :maxdepth: 1
