@@ -38,7 +38,7 @@ Vous pouvez voir certains ID directement dans l’éditeur, notamment dans les e
 
 .. image:: image/Screenshot_6.png
    :alt: Visualisation des ID via un effet
-   :width: 600px
+   :width: 1200px
    :align: center
 ---
 
