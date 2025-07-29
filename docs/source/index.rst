@@ -29,12 +29,22 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
 ---
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Sommaire
-   :caption: Les notions importantes
-   notion/index
-   :caption: Les déclencheurs
+   :maxdepth: 1
+   :caption: 📘 LES NOTIONS IMPORTANTES
+
+   notions/Notion-des-ID
+   notions/Notion-autre
+
+.. toctree::
+   :maxdepth: 1
+   :caption: ⚙️ LES DÉCLENCHEURS
+
    les_declencheurs
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 💻 SCRIPTS & AVANCÉ
+
    xs_intro
    scripts_python
    astuces
