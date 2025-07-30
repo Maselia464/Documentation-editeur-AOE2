@@ -142,15 +142,15 @@ Dans l’éditeur, plusieurs **effets** dans les déclencheurs permettent d’af
 
 - **Créer l’objet** :
   
-.. image:: id_vue_creer_l'objet/id_f.png
-   :alt: Demonstration du résultat au démarage de la partie
+.. image:: image/id_vue_creer_l'objet.png
+   :alt: Affichage de l'ID dans créer l'objet
    :width: 773px
    :align: center
 
 - **Modifier l’attribut** :
   
-.. image:: id_vue_modifier_attribut/id_f.png
-   :alt: Demonstration du résultat au démarage de la partie
+.. image:: image/id_vue_modifier_attribut.png
+   :alt: Affichage de l'ID dans modifier attribut
    :width: 773px
    :align: center
 
