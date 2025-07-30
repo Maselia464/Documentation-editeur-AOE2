@@ -13,7 +13,10 @@ Présentation de la condition
 
 Voici un aperçu de l’interface, numérotée pour faciliter la compréhension :
 
-📷 *(Insérez ici une image annotée avec des numéros)*
+.. image:: image_objet_dans_la_zone/Objet_dans_la_zone.png
+   :alt: Affichage de l'ID dans créer l'objet
+   :width: 950px
+   :align: center
 
 1. **Liste des conditions**  
    Liste l’ensemble des conditions du déclencheur, avec celle sélectionnée ici : *Objet dans la zone*.
@@ -55,7 +58,10 @@ Exemple simple : détecter 6 villageois dans une zone
 
 Dans cet exemple, nous allons créer un déclencheur qui vérifie que **6 villageois** sont présents à l’intérieur d’un enclos formé par quatre palissades.
 
-📷 *(Insérez ici une image de la carte avec la zone définie)*
+.. image:: image_objet_dans_la_zone/Objet_zone_condition_fait_A.png
+   :alt: Affichage de l'ID dans créer l'objet
+   :width: 1102px
+   :align: center
 
 - La zone a été sélectionnée autour des palissades.
 - L’unité *Villageois* a été choisie.
@@ -63,12 +69,12 @@ Dans cet exemple, nous allons créer un déclencheur qui vérifie que **6 villag
 
 Un effet d’affichage de texte a été ajouté pour confirmer visuellement que la condition est bien remplie.
 
-📷 *(Insérez ici l’image montrant le message ou le déclencheur activé)*
+.. image:: image_objet_dans_la_zone/villageois_dans_zone.png
+   :alt: Affichage de l'ID dans créer l'objet
+   :width: 1919px
+   :align: center
 
 Résultat :  
 Dès que les 6 villageois sont dans la zone, le texte s’affiche, prouvant que le déclencheur s’est bien activé.
 
 ---
-
-Souhaite-tu que je t’ajoute une **version .rst complète** avec tout intégré pour la placer directement dans ton dossier de documentation ?
-
