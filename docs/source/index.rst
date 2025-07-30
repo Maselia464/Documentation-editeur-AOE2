@@ -37,6 +37,7 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
 .. toctree::
    :maxdepth: 1
    :caption: 📘 LES NOTIONS IMPORTANTES
+   :titlesonly:
 
    notion/Notion-des-ID
    notion/Notion-autre
@@ -44,12 +45,14 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
 .. toctree::
    :maxdepth: 1
    :caption: ⚙️ LES DÉCLENCHEURS
+   :titlesonly:
 
    declencheur/les_declencheurs
 
 .. toctree::
    :maxdepth: 1
    :caption: 💻 SCRIPTS & AVANCÉ
+   :titlesonly:
 
    xs_intro
    scripts_python
