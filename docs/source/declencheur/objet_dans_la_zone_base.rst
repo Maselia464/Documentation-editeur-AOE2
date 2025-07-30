@@ -13,7 +13,7 @@ Présentation de la condition
 
 Voici un aperçu de l’interface, numérotée pour faciliter la compréhension :
 
-.. image:: image_objet_dans_la_zone/Objet_dans_la_zone.png
+.. image:: image_objet_dans_zone/Objet_dans_la_zone.png
    :alt: Affichage de l'ID dans créer l'objet
    :width: 950px
    :align: center
@@ -58,7 +58,7 @@ Exemple simple : détecter 6 villageois dans une zone
 
 Dans cet exemple, nous allons créer un déclencheur qui vérifie que **6 villageois** sont présents à l’intérieur d’un enclos formé par quatre palissades.
 
-.. image:: image_objet_dans_la_zone/Objet_zone_condition_fait_A.png
+.. image:: image_objet_dans_zone/Objet_zone_condition_fait_A.png
    :alt: Affichage de l'ID dans créer l'objet
    :width: 1102px
    :align: center
@@ -69,7 +69,7 @@ Dans cet exemple, nous allons créer un déclencheur qui vérifie que **6 villag
 
 Un effet d’affichage de texte a été ajouté pour confirmer visuellement que la condition est bien remplie.
 
-.. image:: image_objet_dans_la_zone/villageois_dans_zone.png
+.. image:: image_objet_dans_zone/villageois_dans_zone.png
    :alt: Affichage de l'ID dans créer l'objet
    :width: 1919px
    :align: center
