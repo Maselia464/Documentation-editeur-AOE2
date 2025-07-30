@@ -98,27 +98,32 @@ Les ID sont **indispensables** si vous voulez :
    :alt: Demonstration du résultat au démarage de la partie
    :width: 891px
    :align: center
----
+
+
 .. image:: image/id_c.png
    :alt: Demonstration du résultat au démarage de la partie
    :width: 891px
    :align: center
----
+
+
 .. image:: image/id_d.png
    :alt: Demonstration du résultat au démarage de la partie
    :width: 891px
    :align: center
----
+
+
 .. image:: image/id_e.png
    :alt: Demonstration du résultat au démarage de la partie
    :width: 891px
    :align: center
----
+
+
 .. image:: image/id_f.png
    :alt: Demonstration du résultat au démarage de la partie
    :width: 891px
    :align: center
 ---
+
 Vous voilà désormais informé du fonctionnement des ID dans Age of Empires II: Definitive Edition.
 Cette notion constitue une étape essentielle pour passer du statut de créateur débutant à celui de créateur avancé.
 
