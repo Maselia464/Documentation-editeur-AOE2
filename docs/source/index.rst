@@ -31,7 +31,7 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
 .. toctree::
    :maxdepth: 1
    :caption: 🏠 ACCUEIL
-
+   :titlesonly:
    index
 
 .. toctree::
