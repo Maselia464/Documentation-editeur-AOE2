@@ -40,6 +40,7 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
    :titlesonly:
 
    declencheur/les_declencheurs
+   declencheur/objet_dans_la_zone_base
 
 .. toctree::
    :maxdepth: 1
@@ -47,7 +48,7 @@ N’hésitez pas à contribuer ou à remonter les coquilles et améliorations po
    :titlesonly:
 
    notion/Notion-des-ID
-   notion/Notion-autre
+   notion/trouver_les_id
 
 
 
