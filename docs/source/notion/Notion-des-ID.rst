@@ -142,11 +142,18 @@ Dans l’éditeur, plusieurs **effets** dans les déclencheurs permettent d’af
 
 - **Créer l’objet** :
   
-  *(Insérez ici une capture d’écran de l’effet avec l’ID visible)*
+.. image:: id_vue_creer_l'objet/id_f.png
+   :alt: Demonstration du résultat au démarage de la partie
+   :width: 773px
+   :align: center
 
 - **Modifier l’attribut** :
   
-  *(Insérez ici une autre capture d’écran avec l’ID renseigné automatiquement)*
+.. image:: id_vue_modifier_attribut/id_f.png
+   :alt: Demonstration du résultat au démarage de la partie
+   :width: 773px
+   :align: center
+
 
 Dans les deux cas, l’ID s’affiche automatiquement dans le champ prévu lorsque vous sélectionnez une unité ou un bâtiment.
 
@@ -164,8 +171,8 @@ Dans les deux cas, l’ID s’affiche automatiquement dans le champ prévu lorsq
 
 Un site très utile pour les créateurs de scénarios ou d’IA est celui des **scripteurs IA officiels**. Il contient plusieurs **tableaux d’objets** avec leurs ID associés.
 
-- Lien du site : *([LIEN ICI])*
-- Tableau des objets (unités, bâtiments, groupes) : *([LIEN ICI])*
+- Lien du site : *(https://airef.github.io/index.html)*
+- Tableau des objets (unités, bâtiments, groupes) : *(https://airef.github.io/tables/objects.html)*
 
 **🟢 Avantages :**
 - Clair, organisé, et plus rapide pour des recherches en masse ;
