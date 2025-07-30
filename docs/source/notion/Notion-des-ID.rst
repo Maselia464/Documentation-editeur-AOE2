@@ -89,12 +89,42 @@ Les ID sont **indispensables** si vous voulez :
 - Utiliser des **scripts XS**
 - Automatiser via des outils comme **AoE2ScenarioParser** (Python)
 
-.. image:: images/exemple_xs_script.png
-   :alt: Exemple d’utilisation avancée des ID avec XS
+.. image:: image/util_avance_a.png
+   :alt: Exemple d’utilisation avancée des ID, ici j'impose que toute les unités d'infanterie du jeu on 500 PV pour le joueur 1
+   :width: 1126px
    :align: center
-   :scale: 80%
 
+.. image:: image/id_B.png
+   :alt: Demonstration du résultat au démarage de la partie
+   :width: 891px
+   :align: center
 ---
+.. image:: image/id_c.png
+   :alt: Demonstration du résultat au démarage de la partie
+   :width: 891px
+   :align: center
+---
+.. image:: image/id_d.png
+   :alt: Demonstration du résultat au démarage de la partie
+   :width: 891px
+   :align: center
+---
+.. image:: image/id_e.png
+   :alt: Demonstration du résultat au démarage de la partie
+   :width: 891px
+   :align: center
+---
+.. image:: image/id_f.png
+   :alt: Demonstration du résultat au démarage de la partie
+   :width: 891px
+   :align: center
+---
+Vous voilà désormais informé du fonctionnement des ID dans Age of Empires II: Definitive Edition.
+Cette notion constitue une étape essentielle pour passer du statut de créateur débutant à celui de créateur avancé.
+
+Les ID sont indispensables non seulement pour modifier les attributs des éléments du jeu, mais aussi pour récupérer certaines informations clés dans votre scénario.
+
+
 
 🔗 **Aller plus loin** :  
 :doc:`Voir comment visualiser et manipuler les ID <visualiser_id>`
