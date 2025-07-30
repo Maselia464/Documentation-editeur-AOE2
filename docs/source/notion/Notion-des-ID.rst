@@ -129,6 +129,70 @@ Cette notion constitue une étape essentielle pour passer du statut de créateur
 
 Les ID sont indispensables non seulement pour modifier les attributs des éléments du jeu, mais aussi pour récupérer certaines informations clés dans votre scénario.
 
+Comment trouver les ID dans Age of Empires II
+---------------------------------------------
+
+Il existe plusieurs méthodes pour trouver les **ID** des unités, bâtiments, classes et apparences dans *Age of Empires II: Definitive Edition*.
+
+Dans ce paragraphe, vous allez découvrir où et comment identifier ces différents types d’ID, des plus accessibles aux plus techniques.
+
+### 📌 Première méthode : via l’éditeur de scénario
+
+Dans l’éditeur, plusieurs **effets** dans les déclencheurs permettent d’afficher les ID des unités sélectionnées. Voici deux exemples courants :
+
+- **Créer l’objet** :
+  
+  *(Insérez ici une capture d’écran de l’effet avec l’ID visible)*
+
+- **Modifier l’attribut** :
+  
+  *(Insérez ici une autre capture d’écran avec l’ID renseigné automatiquement)*
+
+Dans les deux cas, l’ID s’affiche automatiquement dans le champ prévu lorsque vous sélectionnez une unité ou un bâtiment.
+
+**✅ Avantages :**
+- Méthode rapide pour obtenir un ID précis sur le moment ;
+- Intégrée directement dans l’éditeur, sans outil externe.
+
+**❌ Inconvénients :**
+- Certains ID sont cachés ou inaccessibles (ex. : ID de classe, d’apparence) ;
+- Peu pratique pour consulter plusieurs ID à la suite.
+
+---
+
+### 🌐 Deuxième méthode : le site officiel des scripts IA
+
+Un site très utile pour les créateurs de scénarios ou d’IA est celui des **scripteurs IA officiels**. Il contient plusieurs **tableaux d’objets** avec leurs ID associés.
+
+- Lien du site : *([LIEN ICI])*
+- Tableau des objets (unités, bâtiments, groupes) : *([LIEN ICI])*
+
+**🟢 Avantages :**
+- Clair, organisé, et plus rapide pour des recherches en masse ;
+- Contient des groupes d’unités et de bâtiments utiles pour les conditions dans les déclencheurs.
+
+**🔴 Limites :**
+- Ne contient **pas** les ID d’apparence ni certains ID techniques (internes au moteur de jeu).
+
+---
+
+### 🛠️ Troisième méthode : avec le logiciel Advanced Genie Editor (AGE)
+
+Pour obtenir des ID **d’apparence**, il faut utiliser un outil externe : le **Advanced Genie Editor** (AGE), inclus dans les fichiers du jeu ou téléchargeable via la communauté.
+
+📍 Ce logiciel permet d’explorer les fichiers `data` du jeu, et d’identifier précisément les variations d’apparence liées aux architectures (asiatique, européenne, mésoaméricaine, etc.).
+
+*(Insérez ici une capture d’écran de AGE avec un ID d’apparence visible)*
+
+👉 Pour apprendre à utiliser AGE :
+
+- Suivez le guide : **"Advanced Genie Editor – Utilisation de base"**  
+  *(Lien ou section à venir)*
+
+---
+
+
+
 
 
 🔗 **Aller plus loin** :  
