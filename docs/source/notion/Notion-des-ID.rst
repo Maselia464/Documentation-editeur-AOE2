@@ -188,12 +188,4 @@ Pour obtenir des ID **d’apparence**, il faut utiliser un outil externe : le **
 
 - Suivez le guide : **"Advanced Genie Editor – Utilisation de base"**  
   *(Lien ou section à venir)*
-
 ---
-
-
-
-
-
-🔗 **Aller plus loin** :  
-:doc:`Voir comment visualiser et manipuler les ID <visualiser_id>`
