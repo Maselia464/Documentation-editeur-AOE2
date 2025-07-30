@@ -189,7 +189,11 @@ Pour obtenir des ID **d’apparence**, il faut utiliser un outil externe : le **
 
 📍 Ce logiciel permet d’explorer les fichiers `data` du jeu, et d’identifier précisément les variations d’apparence liées aux architectures (asiatique, européenne, mésoaméricaine, etc.).
 
-*(Insérez ici une capture d’écran de AGE avec un ID d’apparence visible)*
+.. image:: image/ID_d'apparence.png
+   :alt: Affichage des ID d'aparence dans GENIE
+   :width: 773px
+   :align: center
+
 
 👉 Pour apprendre à utiliser AGE :
 
