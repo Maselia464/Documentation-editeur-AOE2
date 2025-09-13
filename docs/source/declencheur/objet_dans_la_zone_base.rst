@@ -58,7 +58,7 @@ Exemple simple : détecter 6 villageois dans une zone
 
 Dans cet exemple, nous allons créer un déclencheur qui vérifie que **6 villageois** sont présents à l’intérieur d’un enclos formé par quatre palissades.
 
-.. image:: image_objet_dans_zone/Objet_zone_condition_fait_A.png
+.. image:: image_objet_dans_zone/objet_zone_condition_fait_A.png
    :alt: Affichage de l'ID dans créer l'objet
    :width: 1102px
    :align: center
